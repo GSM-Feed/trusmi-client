@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="813" height="813" viewBox="0 0 813 813">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.513" cy="0.5" r="0.579" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bb25b3" stop-opacity="0.325"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle id="Oval_Copy_10" data-name="Oval Copy 10" cx="406.5" cy="406.5" r="406.5" opacity="0.558" fill="url(#radial-gradient)"/>
+</svg>
