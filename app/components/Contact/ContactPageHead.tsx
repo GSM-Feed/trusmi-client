@@ -41,7 +41,7 @@ const ContactPageHead: React.FC<IContactPageHead> = ({ className }) => {
             <p className="text-sm">
               {/* 455 West Orchard Street <br /> Kings Mountain, NC 28086 */}
 
-              Xinghe world F zuo 2909, Bantian street, long gang district, Shenzhen , guangdong , China 518000
+              {/* Xinghe world F zuo 2909, Bantian street, long gang district, Shenzhen , guangdong , China 518000 */}
             </p>
           </div>
           <div className="basis-1/3 flex items-center justify-center flex-col gap-3 bg-primary sm:bg-transparent p-10 sm:p-0 rounded-2xl">
